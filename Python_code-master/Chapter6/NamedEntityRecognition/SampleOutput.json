@@ -1,0 +1,18 @@
+{
+    "query": "Amazon rainforests are located in South America.",
+    "entities": [
+        {
+            "word": "Amazon",
+            "tag": "B-LOC"
+        },
+        {
+            "word": "South",
+            "tag": "B-LOC"
+        },
+        {
+            "word": "America",
+            "tag": "I-LOC"
+        }
+    ]
+}
+
